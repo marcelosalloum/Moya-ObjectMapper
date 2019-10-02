@@ -1,0 +1,34 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "035d953f580a27d005d7e4bab318199bc67d7485",
+  "iOS" : [
+    {
+      "name" : "Moya_ObjectMapper",
+      "hash" : "832cbab10a88ee385323f847c9f0590891313e31a86cb2d2cd05c51671f831ed",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "Result",
+      "hash" : "77133cb82a1ff76e0c916910fbe4120068046ae794dc3071304173574629de36",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "Moya",
+      "hash" : "0ce10d2eb5217db8257977653d49a1b8f74929e4e22536fb8739f5424b9338d9",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "ObjectMapper",
+      "hash" : "9a277a70bf430e4855a03f9c80d386cb178cfb8556a113ee373d819526deb5ac",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
