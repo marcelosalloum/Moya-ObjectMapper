@@ -8,26 +8,26 @@
   "tvOS" : [
 
   ],
-  "commitish" : "035d953f580a27d005d7e4bab318199bc67d7485",
+  "commitish" : "2baac284596f06b269115a6f79ff5f5599bc5f5f",
   "iOS" : [
     {
       "name" : "Moya_ObjectMapper",
-      "hash" : "832cbab10a88ee385323f847c9f0590891313e31a86cb2d2cd05c51671f831ed",
+      "hash" : "6ffb6983fadefcb209e842af20da048243c678377f6ae9b07359b1b5f7f237c7",
       "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
     },
     {
       "name" : "Result",
-      "hash" : "77133cb82a1ff76e0c916910fbe4120068046ae794dc3071304173574629de36",
+      "hash" : "69a788c3d11964a08d2fab190b5cd13ff9ee72711306a1d557cd32b25ee356ae",
       "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
     },
     {
       "name" : "Moya",
-      "hash" : "0ce10d2eb5217db8257977653d49a1b8f74929e4e22536fb8739f5424b9338d9",
+      "hash" : "64253d9ef907337db77fe8dc0360433da47ebcd4121b3768430fe1c91e5d6a17",
       "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
     },
     {
       "name" : "ObjectMapper",
-      "hash" : "9a277a70bf430e4855a03f9c80d386cb178cfb8556a113ee373d819526deb5ac",
+      "hash" : "c63143b6126d396f83e1121a160eb1610796ff7863e0db3b790b8fca307c10e8",
       "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
     }
   ]
