@@ -1,6 +1,7 @@
 # Xcode
 #
-build/
+Sample/build/
+./build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -33,5 +34,4 @@ Sample/Pods/
 #
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
 # Carthage/Checkouts
-
-Carthage/Build
+# Carthage/Build
